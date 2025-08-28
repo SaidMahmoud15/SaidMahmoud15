@@ -42,21 +42,22 @@ I love learning new technologies, improving my problem-solving skills, and contr
 <br>
 ## 📬 Connect with me  
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/said-mahmoud-02231224b" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" alt="LinkedIn" height="30" />
+    <img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" alt="LinkedIn" width="45" hspace="15"/>
   </a>
   <a href="https://github.com/said-mahmoud" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" height="30" />
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="45" hspace="15"/>
   </a>
   <a href="mailto:saidascli88@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" />
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="45" hspace="15"/>
   </a>
   <a href="https://www.facebook.com/share/19WLx7Y33n/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" height="30" />
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="45" hspace="15"/>
   </a>
   <a href="https://wa.me/201552913524" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp" height="30" />
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp" width="45" hspace="15"/>
   </a>
 </p>
+
 
