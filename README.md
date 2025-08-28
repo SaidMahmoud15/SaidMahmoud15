@@ -40,9 +40,23 @@ I love learning new technologies, improving my problem-solving skills, and contr
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=said-mahmoud&layout=compact&theme=transparent)
 
 <br>
+## 📬 Connect with me  
 
-### 🛠️ My Projects
-- [Project 1](https://github.com/said-mahmoud/PROJECT-1) – ASP.NET Core Web API  
-- [Project 2](https://github.com/said-mahmoud/PROJECT-2) – Full Stack Application  
-
+<p align="left">
+  <a href="https://www.linkedin.com/in/said-mahmoud-02231224b" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" alt="LinkedIn" height="30" />
+  </a>
+  <a href="https://github.com/said-mahmoud" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" height="30" />
+  </a>
+  <a href="mailto:saidascli88@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" />
+  </a>
+  <a href="https://www.facebook.com/share/19WLx7Y33n/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" height="30" />
+  </a>
+  <a href="https://wa.me/201552913524" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp" height="30" />
+  </a>
+</p>
 
