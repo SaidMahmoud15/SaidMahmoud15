@@ -1,6 +1,7 @@
 ## Hey 👋, I'm Said Mahmoud!
-<a href='https://www.linkedin.com/in/YOUR-LINKEDIN/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
+<a href='https://www.linkedin.com/in/said-mahmoud-02231224b'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 <a href='https://github.com/said-mahmoud'><img align='left' alt="github" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height='18px'/></a>
+<a href='mailto:saidascli88@gmail.com'><img align='left' alt="email" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height='18px'/></a>
 
 <br/>
 
@@ -18,7 +19,7 @@ I love learning new technologies, improving my problem-solving skills, and contr
 - 🌱 &nbsp; Currently learning **Entity Framework Core, Blazor, and Azure**
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/said-mahmoud)
 - 💬 &nbsp; Ask me about **.NET, C#, ASP.NET Core, SQL Server**
-- 📫 &nbsp; Reach me on [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN/)
+- 📫 &nbsp; Reach me on [LinkedIn](https://www.linkedin.com/in/said-mahmoud-02231224b) or **saidascli88@gmail.com**
 
 <br>
 
@@ -43,5 +44,5 @@ I love learning new technologies, improving my problem-solving skills, and contr
 ### 🛠️ My Projects
 - [Project 1](https://github.com/said-mahmoud/PROJECT-1) – ASP.NET Core Web API  
 - [Project 2](https://github.com/said-mahmoud/PROJECT-2) – Full Stack Application  
-- [Project 3](https://github.com/said-mahmoud/PROJECT-3) – Blazor App  
+
 
