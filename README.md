@@ -78,9 +78,9 @@
   <a href="https://www.linkedin.com/in/said-mahmoud-02231224b" target="_blank">
     <img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" alt="LinkedIn" width="45" hspace="15"/>
   </a>
-a href="https://github.com/SaidMahmoud15" target="_blank" rel="noopener noreferrer" aria-label="SaidMahmoud15 on GitHub">
-  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="45" style="margin-right:15px;">
-</a>
+<a href="https://github.com/said-mahmoud" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="45" hspace="15"/>
+  </a>
   <a href="mailto:saidascli88@gmail.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="45" hspace="15"/>
   </a>
